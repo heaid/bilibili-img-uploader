@@ -13,7 +13,7 @@
 [Web在线版](https://www.xiaojuzi.fun/bili-short-url/upload.html)
 
 ### 本地安装
-[下载](https://jiali0126.oss-cn-shenzhen.aliyuncs.com/share/extension.zip)
+[下载](https://github.com/heaid/bilibili-img-uploader/releases/download/1/extension.zip)
 
 ### 安装步骤
 1. 进入`拓展程序`,可以通过地址栏输入`chrome://extensions/`，也可以从 `更多工具`->`拓展程序`进入
